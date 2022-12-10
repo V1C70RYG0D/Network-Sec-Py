@@ -1,0 +1,1 @@
+This code creates an SSH connection to a remote computer with the IP address 192.168.198.136. The user's username is ubuntu and their password is sulphr. The connection times out after 5 seconds. The paramiko library is used to handle the SSH connection. If the code is run, it will print the client object, which represents the SSH connection.
