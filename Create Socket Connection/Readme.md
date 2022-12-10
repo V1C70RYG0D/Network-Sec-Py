@@ -16,3 +16,8 @@ my_slow_function()
 ```
 
 This code would apply the timefunc decorator to the my_slow_function function, so that when you call my_slow_function, it will not only return the result of the computation, but it will also print the time it took to run.
+
+
+// create_connection.py
+
+This script creates a socket object and attempts to connect to a server at the specified host and port (in this case, localhost on port 5000). The connect_ex() method returns 0 if the connection is successful and an error code otherwise. The script then prints the result of the connection attempt and closes the socket.
