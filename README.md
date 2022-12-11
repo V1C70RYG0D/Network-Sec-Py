@@ -16,4 +16,4 @@ Python-for-security is a GitHub repository that contains a collection of Python 
 
 7.) Packet sniffing with Python: This folder contains scripts for sniffing network packets in Python. This can be useful for capturing and analyzing network traffic in real-time.
 
-8.) These scripts can be useful for security professionals and hobbyists alike. Please use them responsibly and only on systems that you have permission to access.
+These scripts can be useful for security professionals and hobbyists alike. Please use them responsibly and only on systems that you have permission to access.
